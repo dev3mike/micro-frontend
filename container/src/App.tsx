@@ -1,5 +1,3 @@
-import './App.css';
-
 import { MarketingModule } from './components/MarketingModule';
 
 function App() {
